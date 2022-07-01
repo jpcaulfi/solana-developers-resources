@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-simple_counter = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+simple_counter = "xtEFPsPPxCRSHLrdoyTDaoC1W7SNVFWCKF7nWnVYsyg"
 
 [registry]
 url = "https://anchor.projectserum.com"
